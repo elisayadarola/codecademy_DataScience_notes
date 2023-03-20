@@ -1,0 +1,8 @@
+**From intro to Data Literacy in codecademy.com**
+
+
+"Data driven conclusions are only as strong, robust, and well-supported as the data behind them".
+
+Case Study: Heart failure is the main lead of death in women, but in 2021, only 38% of the participant in research studies are women. 
+
+
