@@ -5,4 +5,72 @@
 
 Case Study: Heart failure is the main lead of death in women, but in 2021, only 38% of the participant in research studies are women. 
 
+This particular case, and any others that stand on incomplete datasets lead to bad/worse outcomes in treatments and a higher post-heart attack mortality in women. 
+There's already many answers about heart attacks, but the ins and outs of their effect in women won't be learnt if we focus on male patients data. 
 
+Which leads to the why of data literazy being so important. Understanding and communicating with data = asking the right questions in order to obtain useful data. 
+
+Practicing good data literacy means asking:
+- Do we have sufficient data to answer the question?
+- Can my data answer my exact question?
+
+___
+
+Case study: the existing BIAS from US companies when recruiting candidates and their discrimination. 
+
+Throughout the 90's, companies in the US could hire on a case-by-case basis, which meant they could justify their choice of a certain candidate over another by citing 'company culture' and 'fit' from the individual. This type of justifications could easily mask other factors considered during recruitment process such as race and gender. 
+
+Proving this happened in court it's quite difficult. So lawyer Elaine W. Shoben shifted the burden of proof to companies, rather than the court. 
+She did this by sugin the power of statistics. 
+
+**Concept Pit Stop**
+Statistics helps us test the likelihood of an event happening by random chance versus systematically.
+**Concept Pit Stop**
+
+
+What Elaine did was break the logic into 4 main steps, or questions: 
+
+1) Could the hiring results have happened by random chance? Or is it statistically impossible?
+E.I: StarComm Co. has had a recruitment campaign with 1000 candidates. 400 candidates where women (40%). StarComm hired 200 people out of the 1000 (20%). However, only 20 were women (10%) although they made up 40% of the candidate pool.
+
+2) If these results weren't random, or happended by chance, then they were purposeful, or made on purpose. 
+Staticians concluded that this wasn't random and the chance of this happening were close to 0, therefore it was intentional. 
+
+3) If the employer is awaree of this, they're showing reckless disregard for the rights of inidividual candidates not to be discriminated against. 
+StarComm is now aware that their hiring practices discriminate against candidates based on gender, therefore they're violating the equality act and the law. 
+
+4) The burden of proof shifts to the employer to prove why their hiring techniques are valid rather than discriminatory. 
+StarComm now has to either get up-to-date with their recruitment process and eliminate the discrimination factor OR they have to categorically prove why it happens and why is legal. 
+
+___There are many more examples of why Data Literacy has helped the human kind.
+John Snow was able to prove the Cholera outbreak was caused by an infected water source, and not by steam like the rest believed. Correlation not always means causation, but by gathering, interpreting and visualizing data the right way, John Snow was able to prove his theory. First by focusing on analyzing the people that got ill by zone, and not chronologically, he was able to pinpoint a geographical spot where they gathered the most. Then by gathering data about the people that got infected far away, he was able to find they had visited or been in contact with the contaminated water. 
+
+The Space shuttle accident of 1986 where 7 astronauts were deceased could have been avoided. Engineers presented data that established the temperatures that day were the same temperatures that had caused other malfunctions befpre during takeoff. The problem was the way they presented the data, not visually appealing, understandeable and not establishing a clear correlation between the temps and the ring malfunctions.--
+
+Main takeaways:
+It's necessary to question the source and quality of the data;
+Using statistics can help us tackle problems that may be too big to tackle one by one;
+Data visualization is as important as nthe accuracy of the data;
+Causation and correlation are two terms that help us interpret the data, focusing on context as well - what the numbers mean, not only what they are. 
+
+_____
+DATA COLLECTION
+Where do we get the Data?
+- From individuals (PII)
+- From studies and inquiries
+- research
+- Governments
+
+Datasets are often kept private or have a paywall. But some organizations and websites allow free use of their API or Dataset, such as the WHO and the UNICEF. 
+
+How do we collect it?
+We seek out information that doesn't yet exist and conduct activities like observation and interviews. This type of Data is called static, because the info is collected once and doesn't change.
+The collected Data can also be live and ever-changing, like the sensors and satellites that update the weather info so the predictions are more accurate. 
+
+Another way to collect Data that doesn't involve any direct collection is by gathering existing Data and compile it for our analysis. 
+ 
+There's ethical issues regarding Data:
+- Consent
+- Ownership
+- Intention
+- Privacy
